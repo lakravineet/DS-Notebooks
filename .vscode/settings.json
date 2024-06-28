@@ -1,3 +1,7 @@
 {
-    "editor.fontSize": 14
+    "editor.fontSize": 14,
+    "emmet.useInlineCompletions": true,
+    "editor.fontLigatures": false,
+    "diffEditor.codeLens": false,
+    "editor.accessibilityPageSize": 10
 }
